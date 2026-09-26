@@ -1,0 +1,12 @@
+# GoLand
+.idea/
+*.iml
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+
+# Environment
+.env
